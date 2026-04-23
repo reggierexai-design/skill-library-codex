@@ -1,0 +1,6 @@
+interface:
+  display_name: Data Sql Query Plan
+  short_description: Turn an analysis question into a query plan with tables, joins,
+    filters, and validation checks.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: Prod Pricing Packaging
+  short_description: Shape plans, limits, and upgrade logic so pricing matches value
+    and buying psychology.
+policy:
+  allow_implicit_invocation: false

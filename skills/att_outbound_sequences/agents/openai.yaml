@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Outbound Sequences
+  short_description: Write founder-led or team outbound messages that earn replies
+    without spammy patterns.
+policy:
+  allow_implicit_invocation: false

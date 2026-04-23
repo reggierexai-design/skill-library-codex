@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Interview Synthesis
+  short_description: Turn user calls, notes, and transcripts into pains, language
+    patterns, and decision inputs.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: Des Design Brief
+  short_description: Translate a product problem into a design brief with users, constraints,
+    and success criteria.

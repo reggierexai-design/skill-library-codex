@@ -1,0 +1,6 @@
+interface:
+  display_name: Sec Logging Exposure Check
+  short_description: Check logs, traces, and telemetry for secrets, personal data,
+    and unsafe diagnostic leakage.
+policy:
+  allow_implicit_invocation: false

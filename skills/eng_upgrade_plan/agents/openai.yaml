@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Upgrade Plan
+  short_description: Plan a dependency or platform upgrade with compatibility checks,
+    rollout steps, and rollback paths.
+policy:
+  allow_implicit_invocation: false

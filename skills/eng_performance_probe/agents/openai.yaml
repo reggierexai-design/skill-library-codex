@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Performance Probe
+  short_description: Find the dominant performance bottleneck before suggesting optimization
+    work.
+policy:
+  allow_implicit_invocation: false

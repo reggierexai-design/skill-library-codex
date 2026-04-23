@@ -1,0 +1,6 @@
+interface:
+  display_name: Data Dashboard Brief
+  short_description: Design a dashboard that supports action, ownership, and review
+    cadence instead of vanity views.
+policy:
+  allow_implicit_invocation: false

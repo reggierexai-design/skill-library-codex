@@ -1,0 +1,4 @@
+interface:
+  display_name: Ai Failure Taxonomy
+  short_description: Classify agent failures so fixes target the real weakness instead
+    of symptoms.

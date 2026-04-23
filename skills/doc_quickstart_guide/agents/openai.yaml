@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Quickstart Guide
+  short_description: Write a fast-start guide that gets a new user to first success
+    with minimal friction.
+policy:
+  allow_implicit_invocation: false

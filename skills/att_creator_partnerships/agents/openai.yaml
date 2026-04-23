@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Creator Partnerships
+  short_description: Design creator or expert partnerships with fit, proof, and mutual
+    value.
+policy:
+  allow_implicit_invocation: false

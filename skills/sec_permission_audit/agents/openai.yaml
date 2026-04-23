@@ -1,0 +1,6 @@
+interface:
+  display_name: Sec Permission Audit
+  short_description: Audit roles, scopes, and permissions for least-privilege gaps
+    and over-broad access.
+policy:
+  allow_implicit_invocation: false

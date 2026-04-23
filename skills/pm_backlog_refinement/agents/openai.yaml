@@ -1,0 +1,6 @@
+interface:
+  display_name: Pm Backlog Refinement
+  short_description: Clean a backlog into better-shaped work with priority signals,
+    dependencies, and next actions.
+policy:
+  allow_implicit_invocation: false

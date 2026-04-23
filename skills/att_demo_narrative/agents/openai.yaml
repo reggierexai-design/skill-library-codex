@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Demo Narrative
+  short_description: Turn a product demo into a story with stakes, payoff, and memorable
+    product proof.
+policy:
+  allow_implicit_invocation: false

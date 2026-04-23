@@ -1,0 +1,4 @@
+interface:
+  display_name: Pm Risk Register
+  short_description: Build a practical risk register with triggers, owners, mitigations,
+    and review cadence.

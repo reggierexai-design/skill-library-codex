@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Api Reference Plan
+  short_description: Plan API reference content so endpoints, parameters, errors,
+    and examples stay coherent.
+policy:
+  allow_implicit_invocation: false

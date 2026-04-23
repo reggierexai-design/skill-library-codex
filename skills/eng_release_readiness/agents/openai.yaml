@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Release Readiness
+  short_description: Check whether the change is coherent enough to ship, document,
+    and support.
+policy:
+  allow_implicit_invocation: false

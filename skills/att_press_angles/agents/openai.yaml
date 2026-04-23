@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Press Angles
+  short_description: Generate newsworthy framing angles that connect the project to
+    real trends, tension, or stakes.
+policy:
+  allow_implicit_invocation: false

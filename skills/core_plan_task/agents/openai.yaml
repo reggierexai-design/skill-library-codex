@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Plan Task
+  short_description: Turn a request into a short, executable plan with checkpoints
+    and exit criteria.

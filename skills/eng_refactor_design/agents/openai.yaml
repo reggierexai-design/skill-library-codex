@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Refactor Design
+  short_description: Plan or execute a refactor that improves structure without losing
+    behavior.

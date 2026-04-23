@@ -1,0 +1,4 @@
+interface:
+  display_name: Ai Eval Harness
+  short_description: Design test cases and score rules that catch regressions in agent
+    quality and safety.

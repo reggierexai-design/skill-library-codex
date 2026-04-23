@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Example Pack
+  short_description: Create a small, coherent set of examples that makes a feature
+    or API easier to understand.
+policy:
+  allow_implicit_invocation: false

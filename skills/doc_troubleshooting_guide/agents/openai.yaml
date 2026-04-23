@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Troubleshooting Guide
+  short_description: Organize diagnosis by symptom, checks, and likely causes so users
+    can recover methodically.
+policy:
+  allow_implicit_invocation: false

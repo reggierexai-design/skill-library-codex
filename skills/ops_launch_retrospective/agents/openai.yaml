@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Launch Retrospective
+  short_description: Turn a launch or campaign into concrete lessons, wins, misses,
+    and next changes.
+policy:
+  allow_implicit_invocation: false

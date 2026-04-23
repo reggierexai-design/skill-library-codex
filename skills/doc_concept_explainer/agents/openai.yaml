@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Concept Explainer
+  short_description: Write a clear concept page that teaches how something works before
+    diving into procedures.
+policy:
+  allow_implicit_invocation: false

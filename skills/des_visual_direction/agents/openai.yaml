@@ -1,0 +1,6 @@
+interface:
+  display_name: Des Visual Direction
+  short_description: Set the visual tone, references, and constraints for a cohesive
+    design direction.
+policy:
+  allow_implicit_invocation: false

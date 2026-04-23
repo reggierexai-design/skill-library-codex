@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Code Review Pass
+  short_description: Review a change for correctness, regressions, maintainability,
+    and deployment safety before merge.

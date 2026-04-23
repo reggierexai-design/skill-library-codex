@@ -1,0 +1,4 @@
+interface:
+  display_name: Ops Kpi Review
+  short_description: Turn weekly or monthly metrics into a decision-oriented review
+    instead of a passive reporting recap.

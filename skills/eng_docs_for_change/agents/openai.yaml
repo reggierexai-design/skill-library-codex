@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Docs For Change
+  short_description: Write or update technical docs, migration notes, and operator
+    guidance for a code change.
+policy:
+  allow_implicit_invocation: false

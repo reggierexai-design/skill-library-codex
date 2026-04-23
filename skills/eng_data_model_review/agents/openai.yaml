@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Data Model Review
+  short_description: Review schemas, entities, and state shape for consistency, change
+    safety, and future query patterns.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Handoff Summary
+  short_description: Wrap up work so another operator can continue without re-discovering
+    context.

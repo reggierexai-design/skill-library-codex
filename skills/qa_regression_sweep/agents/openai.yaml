@@ -1,0 +1,6 @@
+interface:
+  display_name: Qa Regression Sweep
+  short_description: Define a fast regression sweep around a change so adjacent breakage
+    is caught before release.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: Res Source Check
+  short_description: Verify important claims against high-quality sources and mark
+    what is still uncertain.

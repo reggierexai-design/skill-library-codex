@@ -1,0 +1,6 @@
+interface:
+  display_name: Data Pipeline Triage
+  short_description: Triage broken or delayed data flows by isolating the failing
+    stage and recovery options.
+policy:
+  allow_implicit_invocation: false

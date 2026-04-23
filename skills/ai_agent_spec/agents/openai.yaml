@@ -1,0 +1,4 @@
+interface:
+  display_name: Ai Agent Spec
+  short_description: Specify an agent workflow, boundaries, tools, and outputs before
+    implementation.

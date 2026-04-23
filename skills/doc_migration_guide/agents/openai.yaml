@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Migration Guide
+  short_description: Write a migration path that explains what changed, who is affected,
+    and how to upgrade safely.
+policy:
+  allow_implicit_invocation: false

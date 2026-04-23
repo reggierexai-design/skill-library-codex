@@ -1,0 +1,4 @@
+interface:
+  display_name: Ops Support Triage
+  short_description: Sort support issues by severity, pattern, owner, and next action
+    without losing user empathy.

@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Social Proof Pack
+  short_description: Turn testimonials, wins, screenshots, and adoption signals into
+    reusable proof assets across channels.
+policy:
+  allow_implicit_invocation: false

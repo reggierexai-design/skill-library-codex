@@ -1,0 +1,6 @@
+interface:
+  display_name: Qa Bug Report Refine
+  short_description: Turn a messy bug note into a clear report with environment, repro
+    steps, and expected behavior.
+policy:
+  allow_implicit_invocation: false

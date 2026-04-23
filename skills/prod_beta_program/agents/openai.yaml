@@ -1,0 +1,4 @@
+interface:
+  display_name: Prod Beta Program
+  short_description: Design a beta program with candidate criteria, learning goals,
+    guardrails, and feedback loops.

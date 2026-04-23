@@ -1,0 +1,6 @@
+interface:
+  display_name: Prod Ui Copy Polish
+  short_description: Upgrade product copy so the interface feels clear, confident,
+    trustworthy, and on-brand.
+policy:
+  allow_implicit_invocation: false

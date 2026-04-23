@@ -1,0 +1,6 @@
+interface:
+  display_name: Sec Auth Session Review
+  short_description: Review authentication, session handling, and account-recovery
+    flows for takeover risk.
+policy:
+  allow_implicit_invocation: false

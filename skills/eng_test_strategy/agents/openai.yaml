@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Test Strategy
+  short_description: Design the smallest reliable test set that protects the important
+    behavior of the change.

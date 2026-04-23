@@ -1,0 +1,6 @@
+interface:
+  display_name: Pm Roadmap Scenarios
+  short_description: Turn competing ideas into roadmap scenarios with tradeoffs, dependencies,
+    and downside risks.
+policy:
+  allow_implicit_invocation: false

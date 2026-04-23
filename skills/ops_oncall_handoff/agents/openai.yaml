@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Oncall Handoff
+  short_description: Prepare a crisp handoff of active incidents, risks, watches,
+    and next actions for the next operator.
+policy:
+  allow_implicit_invocation: false

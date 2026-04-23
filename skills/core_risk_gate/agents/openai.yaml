@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Risk Gate
+  short_description: Slow down risky actions involving installs, secrets, destructive
+    edits, money, or live accounts.

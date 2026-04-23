@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Win Loss Review
+  short_description: Turn won and lost deals, pilots, or evaluations into patterns
+    about value, objections, and timing.
+policy:
+  allow_implicit_invocation: false

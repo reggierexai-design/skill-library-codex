@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Parallelize Work
+  short_description: Split a task into safe parallel tracks while keeping dependencies
+    and merge points explicit.

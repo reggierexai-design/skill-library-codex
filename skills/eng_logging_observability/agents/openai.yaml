@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Logging Observability
+  short_description: Improve logs, metrics, and traces so failures become diagnosable
+    without drowning operators in noise.
+policy:
+  allow_implicit_invocation: false

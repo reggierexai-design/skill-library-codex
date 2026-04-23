@@ -1,0 +1,4 @@
+interface:
+  display_name: Safe Browser Login
+  short_description: Handle authenticated browsing without taking custody of user
+    credentials or live account secrets.

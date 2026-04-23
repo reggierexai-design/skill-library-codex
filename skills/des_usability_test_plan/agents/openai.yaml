@@ -1,0 +1,6 @@
+interface:
+  display_name: Des Usability Test Plan
+  short_description: Plan lightweight usability sessions that reveal friction, confusion,
+    and unmet expectations.
+policy:
+  allow_implicit_invocation: false

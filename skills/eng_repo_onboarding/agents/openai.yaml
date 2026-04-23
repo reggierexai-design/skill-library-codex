@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Repo Onboarding
+  short_description: Understand a codebase fast enough to work safely without pretending
+    to know more than you do.
+policy:
+  allow_implicit_invocation: false

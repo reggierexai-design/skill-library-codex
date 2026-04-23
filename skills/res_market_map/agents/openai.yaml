@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Market Map
+  short_description: Segment a market into audiences, jobs, triggers, channels, and
+    buying alternatives.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: Data Metric Definition
+  short_description: Write a metric definition that is consistent across teams, tools,
+    and review meetings.
+policy:
+  allow_implicit_invocation: false

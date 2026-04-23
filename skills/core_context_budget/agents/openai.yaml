@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Context Budget
+  short_description: Keep a run lean by selecting only the context and skills that
+    change the next decision.

@@ -1,0 +1,6 @@
+interface:
+  display_name: Sales Proposal Outline
+  short_description: Outline a proposal around goals, scope, proof, pricing, and mutual
+    next steps.
+policy:
+  allow_implicit_invocation: false

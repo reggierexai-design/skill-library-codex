@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Partner Landscape
+  short_description: Find plausible partners, integrations, and channel allies with
+    fit, leverage, and mutual value.
+policy:
+  allow_implicit_invocation: false

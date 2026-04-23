@@ -1,0 +1,4 @@
+interface:
+  display_name: Data Quality Checks
+  short_description: Design recurring checks for freshness, completeness, consistency,
+    and metric integrity.

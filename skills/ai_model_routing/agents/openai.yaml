@@ -1,0 +1,6 @@
+interface:
+  display_name: Ai Model Routing
+  short_description: Choose which model handles which work based on quality, speed,
+    cost, and risk.
+policy:
+  allow_implicit_invocation: false

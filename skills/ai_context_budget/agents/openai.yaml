@@ -1,0 +1,4 @@
+interface:
+  display_name: Ai Context Budget
+  short_description: Shape prompts, memory, and retrieved context to fit the smallest
+    useful budget.

@@ -1,0 +1,6 @@
+interface:
+  display_name: Des Design Critique
+  short_description: Critique a design against goals, hierarchy, clarity, and flow
+    instead of taste alone.
+policy:
+  allow_implicit_invocation: false

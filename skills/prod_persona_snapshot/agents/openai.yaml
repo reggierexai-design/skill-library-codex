@@ -1,0 +1,6 @@
+interface:
+  display_name: Prod Persona Snapshot
+  short_description: Synthesize the target user, buying context, pains, triggers,
+    and objections.
+policy:
+  allow_implicit_invocation: false

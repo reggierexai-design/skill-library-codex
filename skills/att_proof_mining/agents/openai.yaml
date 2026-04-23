@@ -1,0 +1,4 @@
+interface:
+  display_name: Att Proof Mining
+  short_description: Extract credible proof points, testimonials, wins, and user language
+    from messy source material.

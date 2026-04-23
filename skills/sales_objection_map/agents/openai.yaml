@@ -1,0 +1,6 @@
+interface:
+  display_name: Sales Objection Map
+  short_description: Turn recurring objections into clearer responses, proof paths,
+    and qualification cues.
+policy:
+  allow_implicit_invocation: false

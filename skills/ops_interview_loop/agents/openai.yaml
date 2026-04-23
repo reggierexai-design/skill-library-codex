@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Interview Loop
+  short_description: Design an interview loop with role fit, evidence coverage, and
+    clear decision ownership.
+policy:
+  allow_implicit_invocation: false

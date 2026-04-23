@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Route Request
+  short_description: Classify the task, choose the right specialist path, and avoid
+    premature action.

@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Minimal Patch
+  short_description: Fix the problem with the smallest clean diff that preserves readability
+    and future changeability.

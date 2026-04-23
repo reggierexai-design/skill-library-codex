@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Directory Submission
+  short_description: Prepare directory, marketplace, and listing submissions that
+    improve discovery without sounding canned.
+policy:
+  allow_implicit_invocation: false

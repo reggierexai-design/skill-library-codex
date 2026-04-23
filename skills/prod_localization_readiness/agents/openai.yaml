@@ -1,0 +1,6 @@
+interface:
+  display_name: Prod Localization Readiness
+  short_description: Review a product or launch for localization, i18n, and translation-readiness
+    gaps.
+policy:
+  allow_implicit_invocation: false

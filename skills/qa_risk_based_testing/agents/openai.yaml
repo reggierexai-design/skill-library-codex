@@ -1,0 +1,4 @@
+interface:
+  display_name: Qa Risk Based Testing
+  short_description: Prioritize testing by user impact, change risk, and failure cost
+    instead of equal treatment.

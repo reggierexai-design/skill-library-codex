@@ -1,0 +1,4 @@
+interface:
+  display_name: Ai Prompt System
+  short_description: Turn scattered instructions into a stable prompt architecture
+    with clear sections and duties.

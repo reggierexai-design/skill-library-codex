@@ -1,0 +1,4 @@
+interface:
+  display_name: Sec Threat Model
+  short_description: Model assets, threats, trust boundaries, and mitigations before
+    building or changing a system.

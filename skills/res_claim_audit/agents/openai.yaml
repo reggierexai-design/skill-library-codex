@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Claim Audit
+  short_description: Audit landing page, pitch, or outbound claims for credibility,
+    proof, and overreach.
+policy:
+  allow_implicit_invocation: false

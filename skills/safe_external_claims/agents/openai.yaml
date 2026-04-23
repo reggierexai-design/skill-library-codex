@@ -1,0 +1,4 @@
+interface:
+  display_name: Safe External Claims
+  short_description: Check public-facing claims for evidence, dates, and overstatement
+    before publishing them.

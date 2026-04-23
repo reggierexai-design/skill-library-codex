@@ -1,0 +1,4 @@
+interface:
+  display_name: Safe Secret Hygiene
+  short_description: Keep credentials, tokens, cookies, and private data out of prompts,
+    files, and logs.

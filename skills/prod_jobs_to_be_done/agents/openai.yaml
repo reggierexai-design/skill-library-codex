@@ -1,0 +1,4 @@
+interface:
+  display_name: Prod Jobs To Be Done
+  short_description: Frame the product around the user job, context, forces, and switching
+    logic instead of feature lists.

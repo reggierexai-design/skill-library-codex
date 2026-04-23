@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Migration Safety
+  short_description: Plan schema, data, config, or API migrations with rollout steps,
+    compatibility, and rollback in mind.

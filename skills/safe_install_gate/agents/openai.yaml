@@ -1,0 +1,4 @@
+interface:
+  display_name: Safe Install Gate
+  short_description: Review package installs, bootstrap scripts, and setup commands
+    before execution.

@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Docs Feedback Loop
+  short_description: Build a lightweight loop for finding missing, stale, or confusing
+    documentation early.
+policy:
+  allow_implicit_invocation: false

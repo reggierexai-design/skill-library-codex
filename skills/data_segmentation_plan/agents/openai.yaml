@@ -1,0 +1,4 @@
+interface:
+  display_name: Data Segmentation Plan
+  short_description: Plan how to segment users, accounts, or events so analysis reveals
+    actionable differences.

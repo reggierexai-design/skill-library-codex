@@ -1,0 +1,6 @@
+interface:
+  display_name: Sec Dependency Audit
+  short_description: Review dependency trust, maintenance posture, and supply-chain
+    risk before adoption or upgrade.
+policy:
+  allow_implicit_invocation: false

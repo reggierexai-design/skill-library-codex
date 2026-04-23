@@ -1,0 +1,4 @@
+interface:
+  display_name: Des Accessibility Review
+  short_description: Review flows for accessibility risks in navigation, semantics,
+    contrast, content, and feedback.

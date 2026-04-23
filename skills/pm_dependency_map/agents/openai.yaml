@@ -1,0 +1,6 @@
+interface:
+  display_name: Pm Dependency Map
+  short_description: Map the teams, systems, approvals, and sequencing that could
+    block delivery.
+policy:
+  allow_implicit_invocation: false

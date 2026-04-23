@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Debug Systematically
+  short_description: 'Debug in ordered phases: reproduce, isolate, explain, patch,
+    and verify.'

@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Community Playbook
+  short_description: Design community and audience-building loops that create repeated
+    interaction around the project.
+policy:
+  allow_implicit_invocation: false

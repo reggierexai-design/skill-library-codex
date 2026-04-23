@@ -1,0 +1,6 @@
+interface:
+  display_name: Ai Rag Design
+  short_description: Design retrieval, chunking, freshness, and citation behavior
+    for grounded question answering.
+policy:
+  allow_implicit_invocation: false

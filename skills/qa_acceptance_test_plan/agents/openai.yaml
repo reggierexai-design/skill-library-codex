@@ -1,0 +1,4 @@
+interface:
+  display_name: Qa Acceptance Test Plan
+  short_description: Turn requirements into a lean acceptance plan that proves the
+    change works for real users.

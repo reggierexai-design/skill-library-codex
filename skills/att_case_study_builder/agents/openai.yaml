@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Case Study Builder
+  short_description: Shape a customer story into a credible case study with before,
+    after, mechanism, and proof.
+policy:
+  allow_implicit_invocation: false

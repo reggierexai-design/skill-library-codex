@@ -1,0 +1,6 @@
+interface:
+  display_name: Ai Guardrail Review
+  short_description: Review an agent for risky behaviors, abuse paths, and missing
+    refusals before wider use.
+policy:
+  allow_implicit_invocation: false

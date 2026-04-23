@@ -1,0 +1,4 @@
+interface:
+  display_name: Ai Subagent Decomposition
+  short_description: Split a complex job into safe subagent tracks with bounded scope,
+    interfaces, and merge points.

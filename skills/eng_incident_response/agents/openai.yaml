@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Incident Response
+  short_description: Stabilize a service issue with fast diagnosis, containment, user-impact
+    framing, and clear next actions.

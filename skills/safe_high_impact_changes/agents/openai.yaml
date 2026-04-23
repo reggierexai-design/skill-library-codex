@@ -1,0 +1,4 @@
+interface:
+  display_name: Safe High Impact Changes
+  short_description: Add extra caution before actions that could affect production,
+    money, users, or public trust.

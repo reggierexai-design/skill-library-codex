@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Dependency Risk
+  short_description: Evaluate whether a new package, SDK, or external service is worth
+    its complexity and trust cost.
+policy:
+  allow_implicit_invocation: false

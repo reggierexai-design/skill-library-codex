@@ -1,0 +1,6 @@
+interface:
+  display_name: Sales Followup Sequence
+  short_description: Write a short follow-up sequence that moves a deal forward without
+    sounding automated.
+policy:
+  allow_implicit_invocation: false

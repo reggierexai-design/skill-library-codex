@@ -1,0 +1,4 @@
+interface:
+  display_name: Data Anomaly Triage
+  short_description: Triage a surprising metric change by checking definitions, pipelines,
+    seasonality, and real behavior.

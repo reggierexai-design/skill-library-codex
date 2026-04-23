@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Decision Log
+  short_description: Keep a running decision log so workstreams stay aligned as choices,
+    owners, and assumptions evolve.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Status Update
+  short_description: Write concise status updates that show progress, risk, and next
+    steps without hiding reality.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Information Architecture
+  short_description: Organize docs so users can find the right answer quickly by role,
+    task, and depth.
+policy:
+  allow_implicit_invocation: false

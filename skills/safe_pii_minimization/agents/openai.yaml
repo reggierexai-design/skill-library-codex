@@ -1,0 +1,4 @@
+interface:
+  display_name: Safe Pii Minimization
+  short_description: Reduce exposure of personal data by default in prompts, notes,
+    artifacts, examples, and logs.

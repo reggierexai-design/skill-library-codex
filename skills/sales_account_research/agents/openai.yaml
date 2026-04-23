@@ -1,0 +1,6 @@
+interface:
+  display_name: Sales Account Research
+  short_description: Summarize an account in terms of likely pain, stakeholders, timing,
+    and approach angles.
+policy:
+  allow_implicit_invocation: false

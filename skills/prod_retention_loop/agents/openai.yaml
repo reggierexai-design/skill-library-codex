@@ -1,0 +1,6 @@
+interface:
+  display_name: Prod Retention Loop
+  short_description: Find the repeat-use loop that makes the product worth returning
+    to and worth keeping.
+policy:
+  allow_implicit_invocation: false

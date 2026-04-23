@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Feature Flag Rollout
+  short_description: Design a staged feature-flag rollout with targeting, monitoring,
+    and rollback criteria.
+policy:
+  allow_implicit_invocation: false

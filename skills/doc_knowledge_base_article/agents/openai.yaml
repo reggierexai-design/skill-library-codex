@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Knowledge Base Article
+  short_description: Turn a recurring question into a support-ready article with clear
+    steps and escalation cues.
+policy:
+  allow_implicit_invocation: false

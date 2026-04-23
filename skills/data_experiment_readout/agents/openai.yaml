@@ -1,0 +1,4 @@
+interface:
+  display_name: Data Experiment Readout
+  short_description: Read an experiment with effect size, uncertainty, caveats, and
+    next actions instead of hype.

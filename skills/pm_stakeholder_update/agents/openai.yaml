@@ -1,0 +1,6 @@
+interface:
+  display_name: Pm Stakeholder Update
+  short_description: Write a crisp update that explains progress, risk, decisions,
+    and asks without noise.
+policy:
+  allow_implicit_invocation: false

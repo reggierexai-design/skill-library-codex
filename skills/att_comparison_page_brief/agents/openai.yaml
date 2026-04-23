@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Comparison Page Brief
+  short_description: Design comparison pages that win trust with fair framing, proof,
+    and a clear reason to choose.
+policy:
+  allow_implicit_invocation: false

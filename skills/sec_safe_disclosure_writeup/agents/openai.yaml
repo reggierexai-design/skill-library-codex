@@ -1,0 +1,6 @@
+interface:
+  display_name: Sec Safe Disclosure Writeup
+  short_description: Write a precise security issue report with impact, evidence,
+    and safe remediation guidance.
+policy:
+  allow_implicit_invocation: false

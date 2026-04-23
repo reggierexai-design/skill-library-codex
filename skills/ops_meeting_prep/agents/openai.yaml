@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Meeting Prep
+  short_description: Prepare an agenda, questions, and decision frame so a meeting
+    creates progress instead of recap.
+policy:
+  allow_implicit_invocation: false

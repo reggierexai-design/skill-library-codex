@@ -1,0 +1,4 @@
+interface:
+  display_name: Data Analysis Plan
+  short_description: Turn a vague data question into a scoped analysis plan with metrics,
+    cuts, and checks.

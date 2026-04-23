@@ -1,0 +1,6 @@
+interface:
+  display_name: Sales Demo Flow
+  short_description: Shape a demo around the buyer problem, proof points, and next
+    commitment instead of a product tour.
+policy:
+  allow_implicit_invocation: false

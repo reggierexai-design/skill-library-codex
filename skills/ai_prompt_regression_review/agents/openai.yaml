@@ -1,0 +1,6 @@
+interface:
+  display_name: Ai Prompt Regression Review
+  short_description: Review prompt changes for behavior regressions, instruction conflicts,
+    and hidden tradeoffs.
+policy:
+  allow_implicit_invocation: false

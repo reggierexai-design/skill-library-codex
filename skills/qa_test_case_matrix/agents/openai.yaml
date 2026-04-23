@@ -1,0 +1,6 @@
+interface:
+  display_name: Qa Test Case Matrix
+  short_description: Build a compact matrix of states, roles, inputs, and environments
+    that must be tested.
+policy:
+  allow_implicit_invocation: false

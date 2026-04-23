@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Web Journey Audit
+  short_description: Audit a live website or product flow for clarity, friction, and
+    attention leakage.
+policy:
+  allow_implicit_invocation: false

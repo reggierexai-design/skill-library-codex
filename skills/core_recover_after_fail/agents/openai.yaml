@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Recover After Fail
+  short_description: Stabilize after a failed command, broken patch, bad assumption,
+    or unexpected result.

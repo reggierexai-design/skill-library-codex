@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Hiring Scorecard
+  short_description: Create a role scorecard with outcomes, competencies, and structured
+    interview signals.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: Qa Repro Steps Author
+  short_description: Write exact reproduction steps for a bug, edge case, or flaky
+    failure without guesswork.
+policy:
+  allow_implicit_invocation: false

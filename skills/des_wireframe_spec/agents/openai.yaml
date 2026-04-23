@@ -1,0 +1,6 @@
+interface:
+  display_name: Des Wireframe Spec
+  short_description: Describe screens, states, and interactions clearly enough to
+    build or critique without mockups.
+policy:
+  allow_implicit_invocation: false

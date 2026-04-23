@@ -1,0 +1,6 @@
+interface:
+  display_name: Sales Account Plan
+  short_description: Build an account plan covering stakeholders, pain, timing, deal
+    strategy, and expansion paths.
+policy:
+  allow_implicit_invocation: false

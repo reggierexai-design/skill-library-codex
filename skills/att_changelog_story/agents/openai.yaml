@@ -1,0 +1,6 @@
+interface:
+  display_name: Att Changelog Story
+  short_description: Turn product updates into clear stories that reinforce momentum,
+    quality, and user trust.
+policy:
+  allow_implicit_invocation: false

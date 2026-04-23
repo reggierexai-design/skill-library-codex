@@ -1,0 +1,6 @@
+interface:
+  display_name: Qa Ui State Check
+  short_description: Review UI states so loading, empty, error, success, and permission
+    cases all behave coherently.
+policy:
+  allow_implicit_invocation: false

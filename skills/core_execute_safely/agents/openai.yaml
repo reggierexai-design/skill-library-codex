@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Execute Safely
+  short_description: Execute the chosen plan with minimal diffs, bounded commands,
+    and steady verification.

@@ -1,0 +1,6 @@
+interface:
+  display_name: Ai Tool Schema Review
+  short_description: Review tool names, arguments, and failure contracts so agents
+    can use them reliably.
+policy:
+  allow_implicit_invocation: false

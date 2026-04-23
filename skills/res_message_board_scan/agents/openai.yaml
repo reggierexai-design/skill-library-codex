@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Message Board Scan
+  short_description: Scan forums, communities, and comment threads for pains, objections,
+    language, and attention hooks.
+policy:
+  allow_implicit_invocation: false

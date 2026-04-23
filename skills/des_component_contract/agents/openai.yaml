@@ -1,0 +1,6 @@
+interface:
+  display_name: Des Component Contract
+  short_description: Define a UI component by purpose, variants, states, and constraints
+    so teams use it consistently.
+policy:
+  allow_implicit_invocation: false

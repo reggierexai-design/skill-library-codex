@@ -1,0 +1,6 @@
+interface:
+  display_name: Sales Mutual Action Plan
+  short_description: Create a buyer-facing action plan with milestones, dependencies,
+    and next commitments.
+policy:
+  allow_implicit_invocation: false

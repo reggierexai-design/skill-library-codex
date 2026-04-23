@@ -1,0 +1,6 @@
+interface:
+  display_name: Pm Governance Model
+  short_description: Define decision rights, review cadence, escalation paths, and
+    operating rules for a program.
+policy:
+  allow_implicit_invocation: false

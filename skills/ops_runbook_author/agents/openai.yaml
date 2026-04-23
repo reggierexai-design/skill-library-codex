@@ -1,0 +1,5 @@
+interface:
+  display_name: Ops Runbook Author
+  short_description: Write operational runbooks that are easy to follow under pressure.
+policy:
+  allow_implicit_invocation: false

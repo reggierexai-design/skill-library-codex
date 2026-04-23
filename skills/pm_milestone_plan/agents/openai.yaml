@@ -1,0 +1,4 @@
+interface:
+  display_name: Pm Milestone Plan
+  short_description: Break a project into milestones, exit criteria, and dependencies
+    that can actually be tracked.

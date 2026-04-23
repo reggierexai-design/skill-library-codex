@@ -1,0 +1,4 @@
+interface:
+  display_name: Eng Ci Failure Triage
+  short_description: Turn a failing CI run into a narrowed cause, likely fix path,
+    and safe next step.

@@ -1,0 +1,4 @@
+interface:
+  display_name: Ops Change Management
+  short_description: Prepare a significant change with approvals, communication, rollout
+    timing, and fallback plans.

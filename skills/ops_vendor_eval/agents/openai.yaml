@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Vendor Eval
+  short_description: Evaluate tools, vendors, and service providers for fit, lock-in
+    risk, cost, and operating burden.
+policy:
+  allow_implicit_invocation: false

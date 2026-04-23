@@ -1,0 +1,6 @@
+interface:
+  display_name: Res Keyword Demand Map
+  short_description: Map search intent, topic clusters, and likely demand signals
+    for SEO and search-discovery work.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: Doc Glossary Builder
+  short_description: Build a shared glossary for terms, metrics, entities, and overloaded
+    language across a project.
+policy:
+  allow_implicit_invocation: false

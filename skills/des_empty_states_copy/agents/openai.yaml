@@ -1,0 +1,6 @@
+interface:
+  display_name: Des Empty States Copy
+  short_description: Write empty-state copy that teaches the next step without sounding
+    robotic or needy.
+policy:
+  allow_implicit_invocation: false

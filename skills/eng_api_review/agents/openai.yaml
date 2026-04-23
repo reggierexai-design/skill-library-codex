@@ -1,0 +1,6 @@
+interface:
+  display_name: Eng Api Review
+  short_description: Review API shape, contracts, error behavior, and change safety
+    before implementation or release.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: Ops Issue Tracker Hygiene
+  short_description: Clean up issues, labels, priorities, and ownership so the tracker
+    supports action instead of confusion.
+policy:
+  allow_implicit_invocation: false

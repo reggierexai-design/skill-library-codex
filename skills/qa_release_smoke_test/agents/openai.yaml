@@ -1,0 +1,4 @@
+interface:
+  display_name: Qa Release Smoke Test
+  short_description: Create a minimal post-build smoke test that catches obvious breakage
+    before wider rollout.

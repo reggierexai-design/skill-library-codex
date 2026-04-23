@@ -1,0 +1,4 @@
+interface:
+  display_name: Ai Memory Policy
+  short_description: Define what an agent should remember, forget, summarize, or ask
+    again over time.

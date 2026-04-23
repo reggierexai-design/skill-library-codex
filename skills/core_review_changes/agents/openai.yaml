@@ -1,0 +1,4 @@
+interface:
+  display_name: Core Review Changes
+  short_description: Review edits, plans, or outputs for correctness, fit, and hidden
+    regressions before finalizing.

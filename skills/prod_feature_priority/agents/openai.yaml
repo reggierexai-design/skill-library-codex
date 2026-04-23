@@ -1,0 +1,4 @@
+interface:
+  display_name: Prod Feature Priority
+  short_description: Prioritize features by user value, strategic fit, effort, and
+    timing instead of loud opinions.

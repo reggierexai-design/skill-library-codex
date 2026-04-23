@@ -1,0 +1,6 @@
+interface:
+  display_name: Data Event Instrumentation
+  short_description: Plan events, properties, and naming so analytics data stays trustworthy
+    and useful.
+policy:
+  allow_implicit_invocation: false
